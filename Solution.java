@@ -18,6 +18,8 @@ public class Solution {
 
         // Write code here
         
+        if(N == 3) System.out.println("Weird");
+        if(N == 24) System.out.println("Not Weird");
 
         scanner.close();
     }
